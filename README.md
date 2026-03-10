@@ -1,2 +1,2 @@
-# pcb-STM32G030F
-STM32G030F Development Board
+# pcb-STM32G030Fx
+STM32G030Fx Development Board
