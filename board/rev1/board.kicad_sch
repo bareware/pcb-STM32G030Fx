@@ -3773,6 +3773,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part#" "C1525"
+			(at 80.01 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "193828a7-4e2b-4e2d-aa7a-a4e3ac35e7e9")
 		)
@@ -3899,6 +3908,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 167.64 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C11702"
 			(at 167.64 76.2 0)
 			(effects
 				(font
@@ -4107,6 +4125,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part#" ""
+			(at 66.04 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "8c2cc44f-bf79-4ead-b4c8-ab60ac40661a")
 		)
@@ -4187,6 +4214,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 236.22 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" ""
 			(at 236.22 132.08 0)
 			(effects
 				(font
@@ -4327,6 +4363,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part#" "C1525"
+			(at 48.26 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d176f9e8-5ef2-4d86-b46d-a28776f1b041")
 		)
@@ -4390,6 +4435,15 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 8KB RAM, 64 MHz, 2.0-3.6V, 17 GPIO, TSSOP20"
+			(at 85.09 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C529330"
 			(at 85.09 77.47 0)
 			(effects
 				(font
@@ -4522,6 +4576,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part#" "C11702"
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "66d566bf-2fd4-42ce-be94-94b96b887644")
 		)
@@ -4546,17 +4609,16 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "54beb12c-d26b-4247-a87b-be264598167e")
 		(property "Reference" "SW2"
-			(at 161.29 54.61 0)
+			(at 161.29 57.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "USER"
+		(property "Value" "~"
 			(at 161.29 57.15 0)
 			(effects
 				(font
@@ -4583,6 +4645,15 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 161.29 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C720477"
 			(at 161.29 60.96 0)
 			(effects
 				(font
@@ -4697,7 +4768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 158.75 76.2 90)
 			(effects
 				(font
@@ -4716,6 +4787,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
+			(at 158.75 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C2286"
 			(at 158.75 76.2 0)
 			(effects
 				(font
@@ -4851,6 +4931,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 210.82 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" ""
 			(at 210.82 132.08 0)
 			(effects
 				(font
@@ -5316,6 +5405,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part#" ""
+			(at 210.82 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e896a264-758e-415b-b994-709b3a93b3e3")
 		)
@@ -5383,6 +5481,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part#" ""
+			(at 147.32 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19972897-25df-41ca-826b-f6c272edec9c")
 		)
@@ -5412,17 +5519,16 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "be7e2e87-0b0c-41f9-9a8f-f5585ecb0de6")
 		(property "Reference" "SW1"
-			(at 38.1 55.88 0)
+			(at 38.1 59.055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "RESET"
+		(property "Value" "~"
 			(at 38.1 58.42 0)
 			(effects
 				(font
@@ -5449,6 +5555,15 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C720477"
 			(at 38.1 62.23 0)
 			(effects
 				(font
@@ -5519,6 +5634,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 236.22 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" ""
 			(at 236.22 148.59 0)
 			(effects
 				(font
@@ -5658,6 +5782,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part#" "C23733"
+			(at 68.58 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cadfc016-38d4-4e9b-a5c3-1ab4c8993634")
 		)
@@ -5785,6 +5918,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 102.87 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" ""
 			(at 102.87 134.62 0)
 			(effects
 				(font
@@ -6113,7 +6255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 158.75 91.44 90)
 			(effects
 				(font
@@ -6132,6 +6274,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
+			(at 158.75 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C2286"
 			(at 158.75 91.44 0)
 			(effects
 				(font
